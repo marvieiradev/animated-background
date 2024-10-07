@@ -8,4 +8,4 @@ Um background com uma animação simples e infinita
 
 Projeto desenvolvido utilizando apenas HTML, CSS e JavaScript.
 
-<img src="screensdhot.jpg"/>
+<img src="screenshot.jpg"/>
